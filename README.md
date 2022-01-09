@@ -1,8 +1,5 @@
 ### Hi there , I'm Prosper Collins👋
 
-
-**papilocollanso/papilocollanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👀 I'm a Software Developer (Android | MEVN)
 - 👀 Google Certified Associate Android Developer
 - 🔭 I’m currently working on a Nuxt.js Application, i just want to chill!
