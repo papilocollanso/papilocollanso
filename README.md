@@ -1,6 +1,6 @@
 ### Hi there , I'm Prosper Collins👋
 
-<!--
+
 **papilocollanso/papilocollanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👀 I'm a Software Developer (Android | MEVN)
@@ -13,4 +13,4 @@
 - 📫 How to reach me: prospercollins19@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I always wish i could fly like the Superman with all his powers.
--->
+
