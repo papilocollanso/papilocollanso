@@ -11,3 +11,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I always wish i could fly like the Superman with all his powers.
 
+![Prosper Collins GitHub stats](https://github-readme-stats.vercel.app/api?username=papilocollanso&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papilocollanso)](https://github.com/papilocollanso/github-readme-stats)
+
