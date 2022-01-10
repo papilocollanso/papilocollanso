@@ -26,7 +26,7 @@
 
 🧰 Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/55124189/148704312-afac383c-3d8e-43ed-8fcb-ceb4f4f381a2.png?w=10&h=10)
+![image](https://user-images.githubusercontent.com/55124189/148704312-afac383c-3d8e-43ed-8fcb-ceb4f4f381a2.png?scale.width=10)
 ![image](https://user-images.githubusercontent.com/55124189/148704373-714b624b-82cb-4287-984a-aaaad13a0c84.png)
 ![image](https://user-images.githubusercontent.com/55124189/148704421-9e425083-995a-48ad-ba80-d092924b62ee.png)
 ![image](https://user-images.githubusercontent.com/55124189/148704426-fe2ccd39-758b-47a4-bc2c-e796c527e3b3.png)
