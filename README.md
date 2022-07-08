@@ -18,6 +18,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=papilocollanso)](https://github.com/papilocollanso/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=papilocollanso)](https://git.io/streak-stats)
+
 
 ### Connect with me 
 
