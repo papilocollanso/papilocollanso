@@ -9,3 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papilocollanso)](https://github.com/papilocollanso/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=papilocollanso&theme=vue)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=papilocollanso)](https://github.com/papilocollanso/github-profile-trophy)
+
+
+
