@@ -1,7 +1,7 @@
 ### Hi there , I'm  Collins Prosper { CP } 👋
 
 - 👀 **Software Engineer | Technical writer | Designer**
-- 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
+- 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
 
 -  📫 *Reach out to me, let's work together*
 
