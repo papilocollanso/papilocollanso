@@ -18,7 +18,7 @@
 
 https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 
-![link](https://user-images.githubusercontent.com/55124189/177904235-85e29f96-d808-4ef3-87ed-5c703cac1826.svg)
+![linkedin.com/in/collins-prosper-919b9a191/](https://user-images.githubusercontent.com/55124189/177904235-85e29f96-d808-4ef3-87ed-5c703cac1826.svg)
 
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
