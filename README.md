@@ -4,7 +4,7 @@
 - 👀 **Software Engineer | Technical writer | Designer**
 - 👀 **Certified Associate Android Developer Java | Kotlin**
 - 😄 Pronouns: he/him
-- 👯 I want to collobarate on projects using stacks like Javascript React/Node and Python Flask/Django relatated tools
+- 👯 I want to collobarate on projects using stacks like JavaScript Reactjs/Nodejs and Python Flask/Django relatated tools
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
 - 🌱 Currently learning Cloud computing with AWS | Microsoft Azure | GCP
 - 📫 *Reach out to me, let's work together*
