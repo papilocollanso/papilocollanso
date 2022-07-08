@@ -26,7 +26,7 @@
   
 ### Technologies and Tools
 
-HTML | CSS | Bootstrap | Tailwind | Styled component | Sass | Less | JavaScript |JQuery | Ajax | TypeScript | Reactjs | Redux | Nodejs | Python | Flask | Django | Android | Java | Kotlin | Postgresql | MySQL | Sqlite3 | AWS | Microsoft Azure | GCP 
+HTML | CSS | Bootstrap | Tailwind | Styled component | Sass | Less | JavaScript |JQuery | Ajax | TypeScript | Vuejs | Vuex | Reactjs | Redux | Nodejs | Expressjs | Python | Flask | Django | Android | Java | Kotlin | Postgresql | MySQL | Sqlite3 | Postman | Docker | Kubernetes | AWS | Microsoft Azure | GCP 
 
 
 
