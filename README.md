@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=papilocollanso&color=green)
 - 👀 **Software Engineer | Technical writer | Designer**
-- 👀 **Certified Android Developer Java | Kotlin
+- 👀 **Certified Associate Android Developer Java | Kotlin**
 - 😄 Pronouns: he/him
 - 👯 I want to collobarate on projects using stacks like Javascript React/Node and Python Flask/Django relatated tools
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
