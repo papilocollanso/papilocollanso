@@ -3,8 +3,8 @@
 
 - 👀 **Software Engineer | Technical writer | Designer**
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
-
--  📫 *Reach out to me, let's work together*
+- 📫 Read some of my articles on https://medium.com/@papilo_collanso
+- 📫 *Reach out to me, let's work together*
 
 ![Prosper Collins 's GitHub stats](https://github-readme-stats.vercel.app/api?username=papilocollanso&show_icons=true&theme=radical)
 
