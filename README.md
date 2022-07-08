@@ -1,4 +1,4 @@
-![github-header-image (2)](https://user-images.githubusercontent.com/55124189/177900966-a6ed83a5-79eb-4dcc-a531-3cd88d80d8d4.png)
+![github-header-image (3)](https://user-images.githubusercontent.com/55124189/177901330-283ebb4b-80af-4ec3-9b9e-bfbecbf4b314.png)
 
 
 - 👀 **Software Engineer | Technical writer | Designer**
