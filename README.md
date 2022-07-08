@@ -1,6 +1,6 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/55124189/177901330-283ebb4b-80af-4ec3-9b9e-bfbecbf4b314.png)
 
-
+![](https://komarev.com/ghpvc/?username=papilocollanso&color=green)
 - 👀 **Software Engineer | Technical writer | Designer**
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
 - 📫 Read some of my articles on https://medium.com/@papilo_collanso
@@ -13,6 +13,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=papilocollanso&theme=vue)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=papilocollanso)](https://github.com/papilocollanso/github-profile-trophy)
+
+### Technologies and Tools
+
 
 
 
