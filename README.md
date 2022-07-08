@@ -1,4 +1,5 @@
-### Hi there , I'm  Collins Prosper { CP } 👋
+![github-header-image (2)](https://user-images.githubusercontent.com/55124189/177900966-a6ed83a5-79eb-4dcc-a531-3cd88d80d8d4.png)
+
 
 - 👀 **Software Engineer | Technical writer | Designer**
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
