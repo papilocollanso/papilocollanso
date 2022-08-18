@@ -1,13 +1,12 @@
 ![github-header-image (3)](https://user-images.githubusercontent.com/55124189/177901330-283ebb4b-80af-4ec3-9b9e-bfbecbf4b314.png)
 
 ![](https://komarev.com/ghpvc/?username=papilocollanso&color=green)
-- 👀 **Software Engineer | Technical writer | Designer**
-- 👀 **Certified Associate Android Developer Java | Kotlin**
-- 😄 Pronouns: he/him
-- 👯 I want to collobarate on projects using stacks like JavaScript Reactjs/Nodejs and Python Flask/Django relatated tools
-- 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated software applications.
-- 🌱 Currently learning Cloud computing with AWS | Microsoft Azure | GCP
-- 📫 *Reach out to me, let's work together*
+- 👀 **MERN Stack Developer | AWS CCP & Community Builder**.
+- 😄 Pronouns: he/him.
+- 👯 I want to collobarate on projects using stack like JavaScript Reactjs & Nodejs 
+- 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
+- 🌱 Currently learning Data Structures & Algorithms.
+- 📫 *Reach out to me, let's work together*.
 - ⚡ Fun fact: I wished I could have The Superman Power.     
 
 ![Prosper Collins 's GitHub stats](https://github-readme-stats.vercel.app/api?username=papilocollanso&show_icons=true&theme=radical)
