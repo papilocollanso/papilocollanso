@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him.
 - 👯 I want to collobarate on projects using stack like JavaScript Reactjs & Nodejs 
 - 🌱 I learn, unlearn and relearn best practices and tools for building sophisticated web applications.
-- 🌱 Currently learning Data Structures & Algorithms.
+- 🌱 Currently learning Data Structures & Algorithms (JS).
 - 📫 *Reach out to me, let's work together*.
 - ⚡ Fun fact: I wished I could have The Superman Power.     
 
