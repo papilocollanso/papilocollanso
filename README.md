@@ -1,6 +1,6 @@
-![github-header-image (3)](
+
 ![Blue White Geometric Business Blog Banner (3)](https://user-images.githubusercontent.com/55124189/185508359-2fba8e30-9fe3-46d4-9111-a8330810603d.png)
-)
+
 
 ![](https://komarev.com/ghpvc/?username=papilocollanso&color=green)
 - 👀 **MERN Stack Developer | AWS CCP & Community Builder**.
