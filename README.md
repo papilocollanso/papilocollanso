@@ -1,5 +1,5 @@
 
-![Blue White Geometric Business Blog Banner (3)](https://user-images.githubusercontent.com/55124189/185508359-2fba8e30-9fe3-46d4-9111-a8330810603d.png)
+![Blue White Geometric Business Blog Banner (4)](https://user-images.githubusercontent.com/55124189/185519415-69423531-29e8-49a9-beac-4a1f66052c67.png)
 
 
 ![](https://komarev.com/ghpvc/?username=papilocollanso&color=green)
